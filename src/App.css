@@ -1,0 +1,41 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-image: url("../src/assets/graphic.jpg");
+  background-color: pink;
+}
+
+.App {
+  color: black;
+}
+
+.buttons button {
+  margin: 8px;
+}
+.buttons {
+  margin-top: 20px;
+}
+
+.flashcard {
+  border: 1px solid rgba(0, 0, 0, 0.502);
+  border-radius: 6px;
+  padding: 8rem;
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.253);
+  cursor: pointer;
+}
+
+.flashcard:active {
+  transform: rotateX(180deg);
+  transition: transform 0.15s;
+  transform-style: preserve-3d;
+}
+
+.flashcard:active h2 {
+  visibility: hidden;
+}
+

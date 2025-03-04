@@ -1,0 +1,74 @@
+[
+    {
+        "korean": "안녕하세요",
+        "english": "Hello"
+    },
+    {
+        "korean": "네",
+        "english": "Yes"
+    },
+    {
+        "korean": "아니요",
+        "english": "No"
+    },
+    {
+        "korean": "저는",
+        "english": "I/my"
+    },
+    {
+        "korean": "왼쪽",
+        "english": "Left"
+    },
+    {
+        "korean": "오른쪽",
+        "english": "Right"
+    },
+    {
+        "korean": "오늘",
+        "english": "Today"
+    },
+    {
+        "korean": "어제",
+        "english": "Yesterday"
+    },
+    {
+        "korean": "내일",
+        "english": "Tomorrow"
+    },
+    {
+        "korean": "감사합니다",
+        "english": "Thank you"
+    },
+    {
+        "korean": "죄송합니다",
+        "english": "Sorry"
+    },
+    {
+        "korean": "만나서 반가워요",
+        "english": "Nice to meet you"
+    },
+    {
+        "korean": "사랑해요",
+        "english": "I love you"
+    },
+    {
+        "korean": "잘 자요",
+        "english": "Good night"
+    },
+    {
+        "korean": "아침",
+        "english": "Morning"
+    },
+    {
+        "korean": "밤",
+        "english": "Night"
+    },    
+    {
+        "korean": "아빠",
+        "english": "Dad"
+    },    
+    {
+        "korean": "엄마",
+        "english": "Mom"
+    }
+]

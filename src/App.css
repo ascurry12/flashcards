@@ -3,11 +3,14 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: rgb(237, 218, 211);
 }
 
 body {
-  background-image: url("../src/assets/graphic.jpg");
-  background-color: pink;
+  background-color: rgb(237, 218, 211);
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .App {
@@ -23,9 +26,10 @@ body {
 
 .flashcard {
   border: 1px solid rgba(0, 0, 0, 0.502);
+  background-color: white;
   border-radius: 6px;
   padding: 8rem;
-  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.253);
+  box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.161);
   cursor: pointer;
 }
 
